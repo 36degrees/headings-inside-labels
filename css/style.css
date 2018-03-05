@@ -4,4 +4,9 @@ h1 {
 
 label {
   color: red;
+  margin-bottom: 10px;
+}
+
+.hinted label {
+  display: block;
 }
